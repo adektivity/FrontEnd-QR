@@ -7,5 +7,29 @@
 }
 
 body {
-  background-color: hsl(216, 15%, 48%);
+  background-color: hsl(212, 45%, 89%);
+  font-family: "Outfit", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* .container {
+  
+} */
+
+.card {
+  /* padding-top: 100px; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: hsl(0, 0%, 100%);
+  width: 320px;
+  height: 499px;
+}
+
+.qr-image {
+  width: 288px;
+  height: 288px;
 }
