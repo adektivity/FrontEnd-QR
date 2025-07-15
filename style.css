@@ -45,17 +45,18 @@ body {
   width: 288px;
   font-weight: 400;
   color: hsl(216, 15%, 48%);
+  margin-bottom: 20px;
 }
 
-.text p {
+/* .text p {
   margin-bottom: 10px;
-}
+} */
 
 .heading {
   font-weight: 700;
   color: hsl(218, 44%, 22%);
-  margin-bottom: 10px;
-  font-size: 16px;
+  margin-bottom: 20px;
+  font-size: 18px;
 }
 
 footer p {
